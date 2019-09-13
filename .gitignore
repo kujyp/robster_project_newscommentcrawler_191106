@@ -1,0 +1,6 @@
+.idea
+venv
+data
+driver
+.DS_Store
+*.pyc
